@@ -3,4 +3,3 @@
 by Programmer Zaman Now
 
 # Trigger jenkins
-# Belajar menggunakan Poll SCM
